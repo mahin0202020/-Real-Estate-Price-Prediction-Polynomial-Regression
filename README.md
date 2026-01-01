@@ -86,4 +86,4 @@ I analyzed degrees ranging from **1 to 10** to find the "sweet spot".
 3.  Run the Jupyter Notebook: `polynomial_regression.ipynb`
 
 ---
-*Author: [Your Name]*
+*Author:  Sheikh Mohammad Abdullah
